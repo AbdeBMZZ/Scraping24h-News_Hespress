@@ -1,0 +1,318 @@
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\CefSharp.Core.Runtime.dll
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\CefSharp.Core.Runtime.pdb
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\CefSharp.Core.Runtime.xml
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\chrome_100_percent.pak
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\chrome_200_percent.pak
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\chrome_elf.dll
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\d3dcompiler_47.dll
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\icudtl.dat
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\libcef.dll
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\libEGL.dll
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\libGLESv2.dll
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\LICENSE.txt
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\locales\am.pak
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\locales\ar.pak
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\locales\bg.pak
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\locales\bn.pak
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\locales\ca.pak
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\locales\cs.pak
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\locales\da.pak
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\locales\de.pak
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\locales\el.pak
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\locales\en-GB.pak
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\locales\en-US.pak
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\locales\es-419.pak
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\locales\es.pak
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\locales\et.pak
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\locales\fa.pak
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\locales\fi.pak
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\locales\fil.pak
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\locales\fr.pak
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\locales\gu.pak
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\locales\he.pak
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\locales\hi.pak
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\locales\hr.pak
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\locales\hu.pak
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\locales\id.pak
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\locales\it.pak
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\locales\ja.pak
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\locales\kn.pak
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\locales\ko.pak
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\locales\lt.pak
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\locales\lv.pak
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\locales\ml.pak
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\locales\mr.pak
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\locales\ms.pak
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\locales\nb.pak
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\locales\nl.pak
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\locales\pl.pak
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\locales\pt-BR.pak
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\locales\pt-PT.pak
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\locales\ro.pak
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\locales\ru.pak
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\locales\sk.pak
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\locales\sl.pak
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\locales\sr.pak
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\locales\sv.pak
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\locales\sw.pak
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\locales\ta.pak
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\locales\te.pak
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\locales\th.pak
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\locales\tr.pak
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\locales\uk.pak
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\locales\vi.pak
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\locales\zh-CN.pak
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\locales\zh-TW.pak
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\README.txt
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\resources.pak
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\snapshot_blob.bin
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\swiftshader\libEGL.dll
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\swiftshader\libGLESv2.dll
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\v8_context_snapshot.bin
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\vk_swiftshader.dll
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\vk_swiftshader_icd.json
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\vulkan-1.dll
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\CefSharp.BrowserSubprocess.Core.pdb
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\CefSharp.BrowserSubprocess.exe
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\CefSharp.BrowserSubprocess.pdb
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\Hespress application.exe.config
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\Hespress application.exe
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\Hespress application.pdb
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\CefSharp.Core.dll
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\CefSharp.dll
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\CefSharp.WinForms.dll
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\CefSharp.pdb
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\CefSharp.xml
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\CefSharp.Core.pdb
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\CefSharp.Core.xml
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\CefSharp.WinForms.pdb
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\CefSharp.WinForms.xml
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\obj\Debug\Hespress application.csproj.AssemblyReference.cache
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\obj\Debug\Hespress_application.Properties.Resources.resources
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\obj\Debug\Hespress application.csproj.GenerateResource.cache
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\obj\Debug\Hespress application.csproj.CoreCompileInputs.cache
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\obj\Debug\Hespress application.csproj.CopyComplete
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\obj\Debug\Hespress application.exe
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\obj\Debug\Hespress application.pdb
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\obj\Debug\Hespress_application.App.resources
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\Web_Service.dll
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\Web_Service.pdb
+C:\Users\Abdellah\source\repos\Hespress application\Hespress application\bin\Debug\Web_Service.dll.config
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\chrome_100_percent.pak
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\chrome_200_percent.pak
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\chrome_elf.dll
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\d3dcompiler_47.dll
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\icudtl.dat
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\libcef.dll
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\libEGL.dll
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\libGLESv2.dll
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\LICENSE.txt
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\locales\am.pak
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\locales\ar.pak
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\locales\bg.pak
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\locales\bn.pak
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\locales\ca.pak
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\locales\cs.pak
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\locales\da.pak
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\locales\de.pak
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\locales\el.pak
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\locales\en-GB.pak
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\locales\en-US.pak
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\locales\es-419.pak
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\locales\es.pak
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\locales\et.pak
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\locales\fa.pak
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\locales\fi.pak
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\locales\fil.pak
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\locales\fr.pak
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\locales\gu.pak
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\locales\he.pak
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\locales\hi.pak
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\locales\hr.pak
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\locales\hu.pak
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\locales\id.pak
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\locales\it.pak
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\locales\ja.pak
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\locales\kn.pak
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\locales\ko.pak
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\locales\lt.pak
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\locales\lv.pak
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\locales\ml.pak
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\locales\mr.pak
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\locales\ms.pak
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\locales\nb.pak
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\locales\nl.pak
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\locales\pl.pak
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\locales\pt-BR.pak
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\locales\pt-PT.pak
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\locales\ro.pak
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\locales\ru.pak
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\locales\sk.pak
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\locales\sl.pak
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\locales\sr.pak
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\locales\sv.pak
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\locales\sw.pak
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\locales\ta.pak
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\locales\te.pak
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\locales\th.pak
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\locales\tr.pak
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\locales\uk.pak
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\locales\vi.pak
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\locales\zh-CN.pak
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\locales\zh-TW.pak
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\README.txt
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\resources.pak
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\snapshot_blob.bin
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\swiftshader\libEGL.dll
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\swiftshader\libGLESv2.dll
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\v8_context_snapshot.bin
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\vk_swiftshader.dll
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\vk_swiftshader_icd.json
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\vulkan-1.dll
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\CefSharp.BrowserSubprocess.Core.pdb
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\CefSharp.BrowserSubprocess.exe
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\CefSharp.BrowserSubprocess.pdb
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\CefSharp.Core.Runtime.dll
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\CefSharp.Core.Runtime.pdb
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\CefSharp.Core.Runtime.xml
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\Hespress application.exe.config
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\Hespress application.exe
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\Hespress application.pdb
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\CefSharp.Core.dll
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\CefSharp.dll
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\CefSharp.WinForms.dll
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\Web_Service.dll
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\Web_Service.pdb
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\Web_Service.dll.config
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\CefSharp.pdb
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\CefSharp.xml
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\CefSharp.Core.pdb
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\CefSharp.Core.xml
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\CefSharp.WinForms.pdb
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\CefSharp.WinForms.xml
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\obj\Debug\Hespress application.csproj.AssemblyReference.cache
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\obj\Debug\Hespress_application.App.resources
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\obj\Debug\Hespress_application.Properties.Resources.resources
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\obj\Debug\Hespress application.csproj.GenerateResource.cache
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\obj\Debug\Hespress application.csproj.CoreCompileInputs.cache
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\obj\Debug\Hespress application.csproj.CopyComplete
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\obj\Debug\Hespress application.exe
+C:\Users\Abdellah\Desktop\abdellah boumaiza\Hespress application\obj\Debug\Hespress application.pdb
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\chrome_100_percent.pak
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\chrome_200_percent.pak
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\chrome_elf.dll
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\d3dcompiler_47.dll
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\icudtl.dat
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\libcef.dll
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\libEGL.dll
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\libGLESv2.dll
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\LICENSE.txt
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\locales\am.pak
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\locales\ar.pak
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\locales\bg.pak
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\locales\bn.pak
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\locales\ca.pak
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\locales\cs.pak
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\locales\da.pak
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\locales\de.pak
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\locales\el.pak
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\locales\en-GB.pak
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\locales\en-US.pak
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\locales\es-419.pak
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\locales\es.pak
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\locales\et.pak
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\locales\fa.pak
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\locales\fi.pak
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\locales\fil.pak
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\locales\fr.pak
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\locales\gu.pak
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\locales\he.pak
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\locales\hi.pak
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\locales\hr.pak
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\locales\hu.pak
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\locales\id.pak
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\locales\it.pak
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\locales\ja.pak
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\locales\kn.pak
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\locales\ko.pak
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\locales\lt.pak
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\locales\lv.pak
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\locales\ml.pak
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\locales\mr.pak
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\locales\ms.pak
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\locales\nb.pak
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\locales\nl.pak
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\locales\pl.pak
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\locales\pt-BR.pak
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\locales\pt-PT.pak
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\locales\ro.pak
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\locales\ru.pak
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\locales\sk.pak
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\locales\sl.pak
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\locales\sr.pak
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\locales\sv.pak
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\locales\sw.pak
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\locales\ta.pak
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\locales\te.pak
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\locales\th.pak
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\locales\tr.pak
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\locales\uk.pak
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\locales\vi.pak
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\locales\zh-CN.pak
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\locales\zh-TW.pak
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\README.txt
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\resources.pak
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\snapshot_blob.bin
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\swiftshader\libEGL.dll
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\swiftshader\libGLESv2.dll
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\v8_context_snapshot.bin
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\vk_swiftshader.dll
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\vk_swiftshader_icd.json
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\vulkan-1.dll
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\CefSharp.BrowserSubprocess.Core.pdb
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\CefSharp.BrowserSubprocess.exe
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\CefSharp.BrowserSubprocess.pdb
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\CefSharp.Core.Runtime.dll
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\CefSharp.Core.Runtime.pdb
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\CefSharp.Core.Runtime.xml
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\Hespress application.exe.config
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\Hespress application.exe
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\Hespress application.pdb
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\CefSharp.Core.dll
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\CefSharp.dll
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\CefSharp.WinForms.dll
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\Web_Service.dll
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\Web_Service.pdb
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\Web_Service.dll.config
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\CefSharp.pdb
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\CefSharp.xml
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\CefSharp.Core.pdb
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\CefSharp.Core.xml
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\CefSharp.WinForms.pdb
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\CefSharp.WinForms.xml
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\obj\Debug\Hespress application.csproj.AssemblyReference.cache
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\obj\Debug\Hespress_application.App.resources
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\obj\Debug\Hespress_application.Properties.Resources.resources
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\obj\Debug\Hespress application.csproj.GenerateResource.cache
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\obj\Debug\Hespress application.csproj.CoreCompileInputs.cache
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\obj\Debug\Hespress application.csproj.CopyComplete
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\obj\Debug\Hespress application.exe
+C:\Users\Abdellah\Desktop\Abdellah boumaiza code source\Hespress application\obj\Debug\Hespress application.pdb

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hespress application", "Hespress application\Hespress application.csproj", "{6C86E457-082A-4486-9428-6B37AD6DD9B9}"
+	ProjectSection(ProjectDependencies) = postProject
+		{876921B1-D6EB-4F60-81BD-070A58CA9FEB} = {876921B1-D6EB-4F60-81BD-070A58CA9FEB}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web_Service", "Web_Service\Web_Service.csproj", "{876921B1-D6EB-4F60-81BD-070A58CA9FEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C86E457-082A-4486-9428-6B37AD6DD9B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C86E457-082A-4486-9428-6B37AD6DD9B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C86E457-082A-4486-9428-6B37AD6DD9B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C86E457-082A-4486-9428-6B37AD6DD9B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{876921B1-D6EB-4F60-81BD-070A58CA9FEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{876921B1-D6EB-4F60-81BD-070A58CA9FEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{876921B1-D6EB-4F60-81BD-070A58CA9FEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{876921B1-D6EB-4F60-81BD-070A58CA9FEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E664521C-6F11-4822-B238-45A0ED606FF9}
+	EndGlobalSection
+EndGlobal
